@@ -67,7 +67,6 @@
 
             android:layout_margin="2dp"
             android:background="#424242"
-            android:text="Borrar"
             android:textColor="#FFFFFF"
             app:backgroundTint="#009688"
             app:iconTint="#009688" />
